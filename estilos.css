@@ -1,0 +1,37 @@
+body{
+    background-color: #f8ebed;
+    color:#933d63;
+    font-family: "Public Sans", sans-serif;
+}
+
+h1{
+    color:#d25779;
+}
+
+h2{
+    color:#ff7d8f;
+}
+h3{
+    color:#f284a7;
+}
+a {
+    text-decoration: none;
+    font-size:large;
+}
+
+ul{
+    list-style: none;
+    font-size: large;
+}
+
+img {
+    width: 450px; height: 350px;
+}
+
+p{
+    font-size: large;
+}
+
+footer {
+    text-align: center;
+}
